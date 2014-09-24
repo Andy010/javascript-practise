@@ -1,0 +1,1 @@
+Learning javascript & jquery by doing exercises in the Javascript & Jquery book
